@@ -25,12 +25,23 @@ text-decoration:none
 /*        left: -35%;*/
 }
 
-img {
+.card img {
 
 	height: 200px;
 	width: 200px;
 	border-radius: 80% 
+
 }
+
+
+.projpic img {
+
+	height: 100%;
+	width: 100%;
+
+	 
+}
+
 
 .card {
 	/*box-shadow: 0 4px 80px 0 rgba(0, 0, 0, 0.2); */
